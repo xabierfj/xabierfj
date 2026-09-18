@@ -32,10 +32,6 @@ REST API for the podcast *Proletario y Parásito*. It turns the podcast's free-t
 into structured episodes, guests and *Simpsons* references. Syncs on publish days, with an API-key-protected
 write endpoint, tests, Docker Compose, and CI.
 
-**[doscar-TPV-visor](https://github.com/xabierfj/doscar-TPV-visor)** · C# · WPF<br>
-A customer-facing display for a point-of-sale system. It listens on a virtual serial port, decodes the DSP800
-protocol the till sends to hardware displays, and shows the product, price and total on a 7" HDMI screen in kiosk mode.
-
 **[ProletarioParasitoPodcastParser](https://github.com/xabierfj/ProletarioParasitoPodcastParser)** · C# · .NET console<br>
 The first version of the podcast parser: a console tool that fetches the feed and prints a summary of the parsed
 episodes. It later grew into `podcast-api`.
