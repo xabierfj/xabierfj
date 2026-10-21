@@ -36,4 +36,8 @@ write endpoint, tests, Docker Compose, and CI.
 The first version of the podcast parser: a console tool that fetches the feed and prints a summary of the parsed
 episodes. It later grew into `podcast-api`.
 
+**[Light-Sphere-landing](https://github.com/xabierfj/Light-Sphere-landing)** · Astro · TypeScript · Tailwind CSS
+Spanish one-page marketing site for LightSphere and its fictional TRUE COLORS micro-implant. It has a small design
+system with chamfered components, accessibility linting, SEO basics, and all copy in one editable file.
+
 Most of my other work (Next.js apps, Astro sites and .NET services) lives in private repositories.
